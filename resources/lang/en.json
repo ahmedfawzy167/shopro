@@ -1,0 +1,18 @@
+{
+    "page_not_found": "Page Not Found",
+    "category_not_found": "Category Not Found",
+    "product_not_found": "Product Not Found",
+    "sku_not_found": "Sku Not Found",
+    "subcategory_not_found" : "Subcategory Not Found",
+    "user_not_found" : "User Not Found",
+    "cart_not_found" : "Cart Not Found",
+    "order_not_found" : "Order Not Found",
+    "wishlist_not_found" : "Wishlist Not Found",
+    "review_not_found" : "Review Not Found",
+    "registered" : "Registeration is Done Waiting For Admin ApprovaL",
+    "login" : "Login Successfully",
+    "logout" : "Logout Successfully"
+
+}
+
+
